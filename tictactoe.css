@@ -1,0 +1,31 @@
+.jumbotron {
+  margin: 5% auto;
+  margin-left: 43%;
+}
+
+td {
+  height:150px;
+  width:150px;
+  text-align: center;
+  border: 2px solid rgb(0, 0, 0);
+  font-size: 100px;
+  background-color: rgb(2, 2, 0);
+  color: rgb(249, 249, 244);
+}
+
+table {
+  margin: auto auto;
+}
+body {
+  background-color: rgb(245, 237, 239);
+}
+h1 {
+  font-size: 70pt;
+  font-family: 'Lobster', cursive;
+  display: left;
+}
+p {
+  font-size: 25pt;
+  font-family: 'Quicksand', sans-serif;
+
+}
